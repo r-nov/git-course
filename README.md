@@ -1,3 +1,3 @@
-# GOT and Github Course
+# Git and Github Course
 
 Crash course for RN
